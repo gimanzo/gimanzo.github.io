@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://gimanzo.com/categories/</loc>
+    <loc>https://gimanzo.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gimanzo.com/</loc>
+    <loc>https://gimanzo.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gimanzo.com/tags/</loc>
+    <loc>https://gimanzo.com/tags/</loc>
     <priority>0</priority>
   </url>
   
